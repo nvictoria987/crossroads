@@ -1,0 +1,1370 @@
+﻿Log file open, 12/09/19 11:12:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: crossyroads
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.176656
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.12.34:834][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.09-19.12.34:834][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.12.34:834][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.12.34:836][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.09-19.12.34:836][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.09-19.12.34:837][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.09-19.12.34:837][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.09-19.12.34:837][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.09-19.12.34:846][  0]LogHAL: Display: Platform has ~ 8 GB [8396877824 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.09-19.12.34:846][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.09-19.12.34:846][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:846][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.09-19.12.34:847][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.09-19.12.34:848][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.09-19.12.34:848][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.09-19.12.34:848][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.12.34:848][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.09-19.12.34:848][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.09-19.12.34:848][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.09-19.12.34:853][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.09-19.12.34:853][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.09-19.12.34:853][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.12.34:853][  0]LogInit: Computer: DESKTOP-9VH7P5T
+[2019.12.09-19.12.34:853][  0]LogInit: User: Victoria
+[2019.12.09-19.12.34:853][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.09-19.12.34:853][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.09-19.12.34:853][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.12.09-19.12.34:853][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.09-19.12.34:853][  0]LogMemory: Process Physical Memory: 100.75 MB used, 100.76 MB peak
+[2019.12.09-19.12.34:853][  0]LogMemory: Process Virtual Memory: 100.63 MB used, 100.63 MB peak
+[2019.12.09-19.12.34:853][  0]LogMemory: Physical Memory: 5682.57 MB used,  2325.32 MB free, 8007.89 MB total
+[2019.12.09-19.12.34:853][  0]LogMemory: Virtual Memory: 4668.43 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.12.09-19.12.34:857][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.09-19.12.35:019][  0]LogInit: Using OS detected language (en-US).
+[2019.12.09-19.12.35:019][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.09-19.12.35:020][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.09-19.12.35:313][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.09-19.12.35:401][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.09-19.12.35:401][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.09-19.12.37:692][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.09-19.12.37:692][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.09-19.12.37:724][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.12.09-19.12.37:724][  0]LogD3D11RHI:       128/0/4003 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.09-19.12.37:727][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.09-19.12.37:727][  0]LogD3D11RHI:       0/0/4003 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.09-19.12.37:727][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.09-19.12.37:734][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.09-19.12.37:734][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.09-19.12.37:735][  0]LogWindows: EnumDisplayDevices:
+[2019.12.09-19.12.37:735][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.12.09-19.12.37:735][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.12.09-19.12.37:735][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.12.09-19.12.37:735][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.09-19.12.37:735][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2019.12.09-19.12.37:735][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2019.12.09-19.12.37:735][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2019.12.09-19.12.37:735][  0]LogRHI: Texture pool is 1490 MB (70% of 2129 MB)
+[2019.12.09-19.12.37:760][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.09-19.12.37:765][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.09-19.12.38:101][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.09-19.12.38:111][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.09-19.12.38:121][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.09-19.12.38:130][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.09-19.12.38:145][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.09-19.12.38:155][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.09-19.12.38:165][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.09-19.12.38:175][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.09-19.12.38:181][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.09-19.12.38:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.09-19.12.38:225][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.09-19.12.38:252][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.09-19.12.38:252][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.09-19.12.38:266][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.09-19.12.38:266][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.09-19.12.38:274][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.09-19.12.38:281][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.09-19.12.38:288][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.09-19.12.38:304][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.09-19.12.38:332][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.09-19.12.38:332][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.09-19.12.38:332][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.09-19.12.38:373][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.09-19.12.38:470][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Intermediate/Shaders/WorkingDirectory/20764/).
+[2019.12.09-19.12.38:471][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Victoria/AppData/Local/Temp/UnrealShaderWorkingDir/BF838DB047A9E0B341C62F9834647BDA/'.
+[2019.12.09-19.12.38:474][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.09-19.12.38:474][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.09-19.12.38:474][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.09-19.12.43:154][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.09-19.12.43:276][  0]LogDerivedDataCache: Loaded boot cache 0.12s 73MB C:/Users/Victoria/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.09-19.12.43:276][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Victoria/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.09-19.12.43:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.09-19.12.43:276][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.09-19.12.43:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.09-19.12.43:276][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.09-19.12.43:315][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.09-19.12.43:315][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.09-19.12.43:315][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.09-19.12.43:317][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Victoria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.09-19.12.43:317][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.09-19.12.43:317][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.09-19.12.43:362][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.09-19.12.43:368][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.09-19.12.43:398][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.09-19.12.43:854][  0]LogAssetRegistry: FAssetRegistry took 0.0048 seconds to start up
+[2019.12.09-19.12.44:436][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.09-19.12.44:947][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.09-19.12.44:947][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.09-19.12.44:947][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.09-19.12.44:947][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.09-19.12.44:947][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.09-19.12.45:006][  0]LogNetVersion: crossyroads 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3911093934)
+[2019.12.09-19.12.47:059][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.100203 seconds
+[2019.12.09-19.12.47:071][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.09-19.12.47:071][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.09-19.12.47:071][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.09-19.12.51:278][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.09-19.12.51:281][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.09-19.12.51:355][  0]SourceControl: Source control is disabled
+[2019.12.09-19.12.51:355][  0]SourceControl: Source control is disabled
+[2019.12.09-19.12.51:357][  0]SourceControl: Source control is disabled
+[2019.12.09-19.12.51:359][  0]SourceControl: Source control is disabled
+[2019.12.09-19.12.51:507][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.09-19.12.51:648][  0]LogOcInput: OculusInput pre-init called
+[2019.12.09-19.12.51:656][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.09-19.12.51:656][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.09-19.12.51:778][  0]LogEngine: Initializing Engine...
+[2019.12.09-19.12.51:779][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.09-19.12.51:780][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.09-19.12.52:179][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.09-19.12.52:202][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.09-19.12.52:362][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.09-19.12.52:395][  0]LogInit: FAudioDevice initialized.
+[2019.12.09-19.12.52:396][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.09-19.12.52:448][  0]LogDerivedDataCache: Saved boot cache 0.05s 73MB C:/Users/Victoria/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.09-19.12.52:454][  0]LogInit: Texture streaming: Enabled
+[2019.12.09-19.12.52:482][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.09-19.12.52:483][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.09-19.12.52:484][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.09-19.12.52:564][  0]LogInit: Transaction tracking system initialized
+[2019.12.09-19.12.52:609][  0]BlueprintLog: New page: Editor Load
+[2019.12.09-19.12.52:735][  0]LocalizationService: Localization service is disabled
+[2019.12.09-19.12.53:323][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/' took 0.01s
+[2019.12.09-19.12.53:323][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.09-19.12.53:323][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.09-19.12.53:752][  0]SourceControl: Source control is disabled
+[2019.12.09-19.12.53:752][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PrototypeLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-19.12.53:752][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PrototypeLevel.umap'
+[2019.12.09-19.12.53:752][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-19.12.53:752][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2019.12.09-19.12.53:752][  0]LogFileHelpers: Loading map 'PrototypeLevel' took 0.001
+[2019.12.09-19.12.53:900][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.12.53:907][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.12.53:914][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.12.53:920][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.12.53:932][  0]LogCollectionManager: Loaded 0 collections in 0.002217 seconds
+[2019.12.09-19.12.53:940][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Collections/' took 0.00s
+[2019.12.09-19.12.53:940][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Developers/Victoria/Collections/' took 0.00s
+[2019.12.09-19.12.53:940][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Collections/' took 0.00s
+[2019.12.09-19.12.53:940][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.09-19.12.53:947][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2863 classes and 680 folders.
+[2019.12.09-19.12.53:956][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.09-19.12.54:291][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.09-19.12.54:297][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.09-19.12.54:321][  0]LogSlate: Took 0.007048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.09-19.12.54:328][  0]LogSlate: Took 0.005455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.09-19.12.54:343][  0]LogSlate: Took 0.007462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.09-19.12.54:519][  0]LogRenderer: Reallocating scene render targets to support 700x340 Format 10 NumSamples 1 (Frame:1).
+[2019.12.09-19.12.54:763][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.09-19.12.54:763][  0]LogLoad: (Engine Initialization) Total time: 23.60 seconds
+[2019.12.09-19.12.54:763][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.09-19.12.54:839][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.09-19.12.54:865][  0]LogSlate: Took 0.006920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-19.12.56:050][ 20]LogAssetRegistry: Asset discovery search completed in 12.1966 seconds
+[2019.12.09-19.12.56:053][ 20]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.12.09-19.12.56:053][ 20]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.12.09-19.14.58:506][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.15.08:848][453]LogSlate: Took 0.000964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-19.15.08:865][453]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Crossy_Content/BluePrints/replaceewbox.replaceewbox
+[2019.12.09-19.15.09:693][453]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 121 classes and 0 folders.
+[2019.12.09-19.15.11:675][453]LogSlate: Took 0.012082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.09-19.15.11:945][454]LogSlate: Took 0.013278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.09-19.15.14:284][540]LogRenderer: Reallocating scene render targets to support 760x424 Format 10 NumSamples 1 (Frame:1).
+[2019.12.09-19.15.30:362][952]BlueprintLog: New page: Compile replaceewbox
+[2019.12.09-19.15.30:857][952]LogUObjectHash: Compacting FUObjectHashTables data took   9.79ms
+[2019.12.09-19.15.33:527][ 22]LogSlate: Window 'replaceewbox' being destroyed
+[2019.12.09-19.15.33:550][ 22]LogSlate: Window 'replaceewbox' being destroyed
+[2019.12.09-19.15.33:591][ 22]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.15.47:484][715]LogUObjectHash: Compacting FUObjectHashTables data took   8.89ms
+[2019.12.09-19.15.47:706][715]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2019.12.09-19.15.47:714][715]LogMetaData: Removing '/Game/Crossy_Content/BluePrints/asset1.asset1_C' ref from Metadata '/Game/Crossy_Content/BluePrints/replaceewbox.PackageMetaData'
+[2019.12.09-19.15.47:714][715]LogMetaData: Removing '/Game/Crossy_Content/BluePrints/asset1.asset1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Crossy_Content/BluePrints/replaceewbox.PackageMetaData'
+[2019.12.09-19.15.47:714][715]LogMetaData: Removing '/Game/Crossy_Content/BluePrints/asset1.asset1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Crossy_Content/BluePrints/replaceewbox.PackageMetaData'
+[2019.12.09-19.15.47:714][715]LogMetaData: Removing '/Game/Crossy_Content/BluePrints/asset1.SKEL_asset1_C' ref from Metadata '/Game/Crossy_Content/BluePrints/replaceewbox.PackageMetaData'
+[2019.12.09-19.15.48:071][715]LogSavePackage: Moving '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/asset199C039674F1E6460B7B6EA8FDC22472F.tmp' to '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/BluePrints/asset1.uasset'
+[2019.12.09-19.15.48:541][715]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2019.12.09-19.15.48:607][715]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2019.12.09-19.15.48:658][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.12.09-19.15.48:751][715]LogSavePackage: Moving '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/CartD212D87746E211511AC87D8A262AEB8D.tmp' to '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/BluePrints/Cart.uasset'
+[2019.12.09-19.15.49:330][715]LogSavePackage: Moving '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/chimken9BCEFD9A4D683A7FCC1CDE82C23BC194.tmp' to '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/BluePrints/chimken.uasset'
+[2019.12.09-19.16.16:539][340]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2019.12.09-19.16.16:543][340]LogMetaData: Removing '/Game/Crossy_Content/BluePrints/BCarBPTrack.BCarBPTrack_C' ref from Metadata '/Game/Crossy_Content/BluePrints/Blue_Car_BP_Track.PackageMetaData'
+[2019.12.09-19.16.16:543][340]LogMetaData: Removing '/Game/Crossy_Content/BluePrints/BCarBPTrack.SKEL_BCarBPTrack_C' ref from Metadata '/Game/Crossy_Content/BluePrints/Blue_Car_BP_Track.PackageMetaData'
+[2019.12.09-19.16.16:911][340]LogSavePackage: Moving '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/BCarBPTrackA561080D494FA3060B391681A160E170.tmp' to '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/BluePrints/BCarBPTrack.uasset'
+[2019.12.09-19.16.16:969][340]LogSavePackage: Moving '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Saved/Blue_Car_BP_Track166B1CC94F9C3CFFE2A33CB6A8C27D5A.tmp' to '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/BluePrints/Blue_Car_BP_Track.uasset'
+[2019.12.09-19.16.26:554][626]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-19.16.26:591][626]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.09-19.16.26:601][626]LogPlayLevel: [PlayLevel] Compiling chimken before play...
+[2019.12.09-19.16.27:040][626]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2019.12.09-19.16.27:041][626]LogPlayLevel: PlayLevel: Blueprint regeneration took 449 ms (1 blueprints)
+[2019.12.09-19.16.27:047][626]PIE: New page: PIE session: Untitled_0 (Dec 9, 2019, 3:16:27 AM)
+[2019.12.09-19.16.27:053][626]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.09-19.16.27:057][626]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2019.12.09-19.16.27:061][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003686s)
+[2019.12.09-19.16.27:064][626]LogAIModule: Creating AISystem for world Untitled
+[2019.12.09-19.16.27:066][626]LogPlayLevel: PIE: World Init took: (0.005199s)
+[2019.12.09-19.16.27:067][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.009640s)
+[2019.12.09-19.16.27:129][626]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.09-19.16.27:145][626]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.09-19.16.27:193][626]LogInit: FAudioDevice initialized.
+[2019.12.09-19.16.27:366][626]LogLoad: Game class is 'TestGameMode_C'
+[2019.12.09-19.16.27:376][626]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2019.12.09-11.16.27
+[2019.12.09-19.16.27:377][626]LogWorld: Bringing up level for play took: 0.002360
+[2019.12.09-19.16.27:381][626]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.09-19.16.27:412][626]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.12.09-19.16.27:412][626]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.09-19.16.27:412][626]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.09-19.16.27:412][626]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.09-19.16.27:433][626]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.09-19.16.27:434][626]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 0.356
+[2019.12.09-19.16.33:304][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.16.33:304][937]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_0
+[2019.12.09-19.16.33:305][937]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.33:343][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-19.16.33:421][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.16.33:504][937]LogUObjectHash: Compacting FUObjectHashTables data took   9.89ms
+[2019.12.09-19.16.33:526][938]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.09-19.16.35:210][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.16.40:705][302]LogLevelStreaming: Display: Failed to find streaming level package file: /Game/Crossy_Content/Levels/BS_Test. This streaming level may not load or save properly.
+[2019.12.09-19.16.40:718][302]LogAIModule: Creating AISystem for world mainlevel
+[2019.12.09-19.16.40:747][302]LogAssetEditorManager: Opening Asset editor for World /Game/Crossy_Content/Levels/mainlevel.mainlevel
+[2019.12.09-19.16.40:840][302]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2019.12.09-19.16.40:842][302]Cmd: MAP LOAD FILE="../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/mainlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-19.16.40:843][302]LightingResults: New page: Lighting Build
+[2019.12.09-19.16.40:850][302]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2019.12.09-19.16.40:853][302]LoadErrors: New page: Loading map: mainlevel.umap
+[2019.12.09-19.16.40:854][302]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.40:854][302]MapCheck: New page: Map Check
+[2019.12.09-19.16.40:855][302]LightingResults: New page: Lighting Build
+[2019.12.09-19.16.40:910][302]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2019.12.09-19.16.40:914][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural12) is flushing async loading
+[2019.12.09-19.16.40:914][302]LogStreaming: Display: Flushing async loaders.
+[2019.12.09-19.16.40:917][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.40:917][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.40:917][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.40:918][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.41:010][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.41:011][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.41:011][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.41:011][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.41:012][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.41:013][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.41:013][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.41:014][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.41:024][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural12.umap' failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.41:024][302]LoadErrors: Failed to load /Game/Crossy_Content/Levels/Procedural12_BuiltData.Procedural12_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.16.41:024][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural12.umap' failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.16.41:220][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural02) is flushing async loading
+[2019.12.09-19.16.41:274][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural11) is flushing async loading
+[2019.12.09-19.16.41:276][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:276][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:277][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:277][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:279][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:279][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:279][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:280][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:280][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:280][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:281][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:281][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:283][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural11.umap' failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:283][302]LoadErrors: Failed to load /Game/Crossy_Content/Levels/Procedural11_BuiltData.Procedural11_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.16.41:283][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural11.umap' failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.16.41:287][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/PreLevel02) is flushing async loading
+[2019.12.09-19.16.41:297][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural04) is flushing async loading
+[2019.12.09-19.16.41:495][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural01) is flushing async loading
+[2019.12.09-19.16.41:496][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:497][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:497][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:497][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:499][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:499][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:499][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:499][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:500][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:500][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:501][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:501][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:503][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:503][302]LoadErrors: Failed to load /Game/Crossy_Content/Levels/Procedural01_BuiltData.Procedural01_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.16.41:503][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:507][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/PreLevel03) is flushing async loading
+[2019.12.09-19.16.41:509][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:509][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:509][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:510][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:512][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:512][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:513][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:513][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:514][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:514][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:514][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:515][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:516][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel03.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:516][302]LoadErrors: Failed to load /Game/Crossy_Content/Levels/PreLevel03_BuiltData.PreLevel03_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.16.41:516][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel03.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.16.41:522][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/PreLevel01) is flushing async loading
+[2019.12.09-19.16.41:523][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:524][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:524][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:524][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:526][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:527][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:527][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:527][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:528][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:528][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:528][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:529][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:530][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel01.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:530][302]LoadErrors: Failed to load /Game/Crossy_Content/Levels/PreLevel01_BuiltData.PreLevel01_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.16.41:531][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel01.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.16.41:536][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural03) is flushing async loading
+[2019.12.09-19.16.41:677][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing) is flushing async loading
+[2019.12.09-19.16.41:846][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:847][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:849][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:849][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:852][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:852][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:852][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:852][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:853][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:853][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:854][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:854][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:859][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Other_Levels/Scale_Testing.umap' failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:859][302]LoadErrors: Failed to load /Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData.Scale_Testing_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.16.41:860][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Other_Levels/Scale_Testing.umap' failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.16.41:899][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/PreLevel04) is flushing async loading
+[2019.12.09-19.16.41:901][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:901][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:902][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:902][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:904][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:905][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:905][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:905][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:906][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:906][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:906][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:906][302]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:908][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel04.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:908][302]LoadErrors: Failed to load /Game/Crossy_Content/Levels/PreLevel04_BuiltData.PreLevel04_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.16.41:908][302]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel04.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.16.41:915][302]LogStreaming: Error: Couldn't find file for package /Game/Crossy_Content/Levels/BS_Test.
+[2019.12.09-19.16.41:915][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural06) is flushing async loading
+[2019.12.09-19.16.41:980][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural07) is flushing async loading
+[2019.12.09-19.16.41:990][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural05) is flushing async loading
+[2019.12.09-19.16.42:094][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural08) is flushing async loading
+[2019.12.09-19.16.42:105][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural09) is flushing async loading
+[2019.12.09-19.16.42:137][302]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural10) is flushing async loading
+[2019.12.09-19.16.42:160][302]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-19.16.42:271][302]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2019.12.09-19.16.42:332][302]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-19.16.42:342][302]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.88ms to complete.
+[2019.12.09-19.16.42:342][302]LogFileHelpers: Loading map 'mainlevel' took 1.502
+[2019.12.09-19.16.45:713][391]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-19.16.45:748][391]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-19.16.52:361][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (water_water_001)
+[2019.12.09-19.16.59:126][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.16.59:476][997]LogAssetEditorManager: Opening Asset editor for World /Game/Crossy_Content/Levels/PreLevel01.PreLevel01
+[2019.12.09-19.16.59:613][997]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2019.12.09-19.16.59:614][997]Cmd: MAP LOAD FILE="../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-19.16.59:614][997]LightingResults: New page: Lighting Build
+[2019.12.09-19.16.59:615][997]LoadErrors: New page: Loading map: PreLevel01.umap
+[2019.12.09-19.16.59:620][997]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:621][997]LogWorld: UWorld::CleanupWorld for Procedural12, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:621][997]LogWorld: UWorld::CleanupWorld for Procedural02, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:621][997]LogWorld: UWorld::CleanupWorld for Procedural11, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:621][997]LogWorld: UWorld::CleanupWorld for PreLevel02, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:621][997]LogWorld: UWorld::CleanupWorld for Procedural04, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:622][997]LogWorld: UWorld::CleanupWorld for Procedural01, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:622][997]LogWorld: UWorld::CleanupWorld for PreLevel03, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:622][997]LogWorld: UWorld::CleanupWorld for PreLevel01, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:622][997]LogWorld: UWorld::CleanupWorld for Procedural03, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:622][997]LogWorld: UWorld::CleanupWorld for Scale_Testing, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:622][997]LogWorld: UWorld::CleanupWorld for PreLevel04, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:622][997]LogWorld: UWorld::CleanupWorld for Procedural06, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:623][997]LogWorld: UWorld::CleanupWorld for Procedural07, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:623][997]LogWorld: UWorld::CleanupWorld for Procedural05, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:623][997]LogWorld: UWorld::CleanupWorld for Procedural08, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:623][997]LogWorld: UWorld::CleanupWorld for Procedural09, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:623][997]LogWorld: UWorld::CleanupWorld for Procedural10, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.16.59:624][997]MapCheck: New page: Map Check
+[2019.12.09-19.16.59:624][997]LightingResults: New page: Lighting Build
+[2019.12.09-19.16.59:719][997]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2019.12.09-19.16.59:724][997]LogAIModule: Creating AISystem for world PreLevel01
+[2019.12.09-19.16.59:727][997]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-19.16.59:787][997]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.12.09-19.16.59:843][997]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-19.16.59:843][997]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.231ms to complete.
+[2019.12.09-19.16.59:845][997]LogFileHelpers: Loading map 'PreLevel01' took 0.232
+[2019.12.09-19.16.59:970][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.12.09-19.17.07:309][412]LogLevelStreaming: Display: Failed to find streaming level package file: /Game/Crossy_Content/Levels/BS_Test. This streaming level may not load or save properly.
+[2019.12.09-19.17.07:316][412]LogAIModule: Creating AISystem for world mainlevel
+[2019.12.09-19.17.07:326][412]LogAssetEditorManager: Opening Asset editor for World /Game/Crossy_Content/Levels/mainlevel.mainlevel
+[2019.12.09-19.17.07:388][412]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2019.12.09-19.17.07:389][412]Cmd: MAP LOAD FILE="../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/mainlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-19.17.07:389][412]LightingResults: New page: Lighting Build
+[2019.12.09-19.17.07:390][412]LoadErrors: New page: Loading map: mainlevel.umap
+[2019.12.09-19.17.07:390][412]LogWorld: UWorld::CleanupWorld for PreLevel01, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.07:391][412]MapCheck: New page: Map Check
+[2019.12.09-19.17.07:391][412]LightingResults: New page: Lighting Build
+[2019.12.09-19.17.07:446][412]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2019.12.09-19.17.07:448][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural11) is flushing async loading
+[2019.12.09-19.17.07:448][412]LogStreaming: Display: Flushing async loaders.
+[2019.12.09-19.17.07:450][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:451][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:451][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:451][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:453][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:454][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:454][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:454][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:455][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:455][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:455][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:455][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:457][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural11.umap' failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:457][412]LoadErrors: Failed to load /Game/Crossy_Content/Levels/Procedural11_BuiltData.Procedural11_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.17.07:458][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural11.umap' failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.07:463][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural02) is flushing async loading
+[2019.12.09-19.17.07:484][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural01) is flushing async loading
+[2019.12.09-19.17.07:486][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:486][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:486][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:486][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:488][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:488][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:489][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:489][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:489][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:490][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:490][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:490][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:492][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:492][412]LoadErrors: Failed to load /Game/Crossy_Content/Levels/Procedural01_BuiltData.Procedural01_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.17.07:492][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:497][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural12) is flushing async loading
+[2019.12.09-19.17.07:498][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:499][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:499][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:499][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:502][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:503][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:503][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:503][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:504][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:504][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:504][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:505][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:506][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural12.umap' failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:506][412]LoadErrors: Failed to load /Game/Crossy_Content/Levels/Procedural12_BuiltData.Procedural12_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.17.07:507][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural12.umap' failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.07:513][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/PreLevel01) is flushing async loading
+[2019.12.09-19.17.07:515][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:516][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:516][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:516][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:520][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:520][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:521][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:521][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:522][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:523][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:523][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:523][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:526][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel01.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:526][412]LoadErrors: Failed to load /Game/Crossy_Content/Levels/PreLevel01_BuiltData.PreLevel01_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.17.07:527][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel01.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.07:533][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/PreLevel02) is flushing async loading
+[2019.12.09-19.17.07:543][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/PreLevel03) is flushing async loading
+[2019.12.09-19.17.07:545][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:545][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:545][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:546][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:548][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:548][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:548][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:549][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:549][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:550][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:550][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:550][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:553][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel03.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:553][412]LoadErrors: Failed to load /Game/Crossy_Content/Levels/PreLevel03_BuiltData.PreLevel03_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.17.07:553][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel03.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.07:559][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/PreLevel04) is flushing async loading
+[2019.12.09-19.17.07:561][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:561][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:562][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:562][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:564][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:565][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:565][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:565][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:566][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:566][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:567][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:567][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:569][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel04.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:569][412]LoadErrors: Failed to load /Game/Crossy_Content/Levels/PreLevel04_BuiltData.PreLevel04_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.17.07:569][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel04.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.07:576][412]LogStreaming: Error: Couldn't find file for package /Game/Crossy_Content/Levels/BS_Test.
+[2019.12.09-19.17.07:577][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing) is flushing async loading
+[2019.12.09-19.17.07:580][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:580][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:583][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:583][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:587][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:587][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:588][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:588][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:589][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:590][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:590][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:591][412]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:597][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Other_Levels/Scale_Testing.umap' failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:597][412]LoadErrors: Failed to load /Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData.Scale_Testing_BuiltData Referenced by PersistentLevel
+[2019.12.09-19.17.07:598][412]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Other_Levels/Scale_Testing.umap' failed to load '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing_BuiltData': Can't find file.
+[2019.12.09-19.17.07:606][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural03) is flushing async loading
+[2019.12.09-19.17.07:623][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural04) is flushing async loading
+[2019.12.09-19.17.07:635][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural05) is flushing async loading
+[2019.12.09-19.17.07:646][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural06) is flushing async loading
+[2019.12.09-19.17.07:658][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural07) is flushing async loading
+[2019.12.09-19.17.07:672][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural08) is flushing async loading
+[2019.12.09-19.17.07:682][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural09) is flushing async loading
+[2019.12.09-19.17.07:711][412]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Crossy_Content/Levels/Procedural10) is flushing async loading
+[2019.12.09-19.17.07:726][412]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-19.17.07:827][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2019.12.09-19.17.07:881][412]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-19.17.07:884][412]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.49ms to complete.
+[2019.12.09-19.17.07:884][412]LogFileHelpers: Loading map 'mainlevel' took 0.497
+[2019.12.09-19.17.09:839][476]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-19.17.09:880][476]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-19.17.12:710][599]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-19.17.12:741][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/Crossy_Content/Levels/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.12.09-19.17.12:741][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural11.Procedural11:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural11.Procedural11:PersistentLevel.Procedural11' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural11.Procedural11_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural11.Procedural11:PersistentLevel.Procedural11'
+[2019.12.09-19.17.12:741][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural02.Procedural02:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural02.Procedural02:PersistentLevel.Procedural02' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural02.Procedural02_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural02.Procedural02:PersistentLevel.Procedural02'
+[2019.12.09-19.17.12:741][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural01.Procedural01:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural01.Procedural01:PersistentLevel.Procedural01' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural01.Procedural01_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural01.Procedural01:PersistentLevel.Procedural01'
+[2019.12.09-19.17.12:741][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural12.Procedural12:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural12.Procedural12:PersistentLevel.Procedural12' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural12.Procedural12_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural12.Procedural12:PersistentLevel.Procedural12'
+[2019.12.09-19.17.12:741][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01:PersistentLevel.PreLevel01' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01:PersistentLevel.PreLevel01'
+[2019.12.09-19.17.12:742][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02:PersistentLevel.PreLevel02' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02:PersistentLevel.PreLevel02'
+[2019.12.09-19.17.12:742][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03:PersistentLevel.PreLevel03' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03:PersistentLevel.PreLevel03'
+[2019.12.09-19.17.12:742][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04:PersistentLevel.PreLevel04' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04:PersistentLevel.PreLevel04'
+[2019.12.09-19.17.12:742][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing:PersistentLevel.Scale_Testing' with GeneratedClass '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing:PersistentLevel.Scale_Testing'
+[2019.12.09-19.17.12:742][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural03.Procedural03:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural03.Procedural03:PersistentLevel.Procedural03' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural03.Procedural03_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural03.Procedural03:PersistentLevel.Procedural03'
+[2019.12.09-19.17.12:742][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural04.Procedural04:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural04.Procedural04:PersistentLevel.Procedural04' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural04.Procedural04_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural04.Procedural04:PersistentLevel.Procedural04'
+[2019.12.09-19.17.12:742][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural05.Procedural05:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural05.Procedural05:PersistentLevel.Procedural05' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural05.Procedural05_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural05.Procedural05:PersistentLevel.Procedural05'
+[2019.12.09-19.17.12:742][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural06.Procedural06:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural06.Procedural06:PersistentLevel.Procedural06' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural06.Procedural06_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural06.Procedural06:PersistentLevel.Procedural06'
+[2019.12.09-19.17.12:742][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural07.Procedural07:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural07.Procedural07:PersistentLevel.Procedural07' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural07.Procedural07_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural07.Procedural07:PersistentLevel.Procedural07'
+[2019.12.09-19.17.12:742][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural08.Procedural08:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural08.Procedural08:PersistentLevel.Procedural08' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural08.Procedural08_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural08.Procedural08:PersistentLevel.Procedural08'
+[2019.12.09-19.17.12:742][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural09.Procedural09:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural09.Procedural09:PersistentLevel.Procedural09' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural09.Procedural09_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural09.Procedural09:PersistentLevel.Procedural09'
+[2019.12.09-19.17.12:742][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural10.Procedural10:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural10.Procedural10:PersistentLevel.Procedural10' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural10.Procedural10_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural10.Procedural10:PersistentLevel.Procedural10'
+[2019.12.09-19.17.12:742][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-19.17.12:743][599]PIE: New page: PIE session: mainlevel (Dec 9, 2019, 3:17:12 AM)
+[2019.12.09-19.17.12:743][599]LogPlayLevel: Creating play world package: /Game/Crossy_Content/Levels/UEDPIE_0_mainlevel
+[2019.12.09-19.17.12:756][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013323s)
+[2019.12.09-19.17.12:758][599]LogAIModule: Creating AISystem for world mainlevel
+[2019.12.09-19.17.12:758][599]LogPlayLevel: PIE: World Init took: (0.001570s)
+[2019.12.09-19.17.12:758][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crossy_Content/Levels/mainlevel.mainlevel to /Game/Crossy_Content/Levels/UEDPIE_0_mainlevel.mainlevel (0.015268s)
+[2019.12.09-19.17.12:810][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.12.09-19.17.12:820][599]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.09-19.17.12:853][599]LogInit: FAudioDevice initialized.
+[2019.12.09-19.17.12:867][599]LogLoad: Game class is 'TestGameMode_C'
+[2019.12.09-19.17.12:870][599]LogWorld: Bringing World /Game/Crossy_Content/Levels/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.12.09-11.17.12
+[2019.12.09-19.17.12:870][599]LogWorld: Bringing up level for play took: 0.000839
+[2019.12.09-19.17.12:870][599]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.09-19.17.12:874][599]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.09-19.17.12:874][599]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.09-19.17.12:874][599]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.09-19.17.12:880][599]LogScript: Warning: Script Msg: Modulo by zero
+[2019.12.09-19.17.12:882][599]LogScript: Warning: Script Msg: Modulo by zero
+[2019.12.09-19.17.12:883][599]LogScript: Warning: Script Msg: Modulo by zero
+[2019.12.09-19.17.12:884][599]LogScript: Warning: Script Msg: Modulo by zero
+[2019.12.09-19.17.12:886][599]LogScript: Warning: Script Msg: Modulo by zero
+[2019.12.09-19.17.12:888][599]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.09-19.17.12:888][599]PIE: Play in editor start time for /Game/Crossy_Content/Levels/UEDPIE_0_mainlevel -0.19
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/Crossy_Content/Levels/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural11.Procedural11:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural11.Procedural11:PersistentLevel.Procedural11' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural11.Procedural11_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural11.Procedural11:PersistentLevel.Procedural11'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural02.Procedural02:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural02.Procedural02:PersistentLevel.Procedural02' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural02.Procedural02_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural02.Procedural02:PersistentLevel.Procedural02'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural01.Procedural01:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural01.Procedural01:PersistentLevel.Procedural01' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural01.Procedural01_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural01.Procedural01:PersistentLevel.Procedural01'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural12.Procedural12:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural12.Procedural12:PersistentLevel.Procedural12' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural12.Procedural12_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural12.Procedural12:PersistentLevel.Procedural12'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01:PersistentLevel.PreLevel01' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01:PersistentLevel.PreLevel01'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02:PersistentLevel.PreLevel02' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02:PersistentLevel.PreLevel02'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03:PersistentLevel.PreLevel03' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03:PersistentLevel.PreLevel03'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04:PersistentLevel.PreLevel04' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04:PersistentLevel.PreLevel04'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing:PersistentLevel.Scale_Testing' with GeneratedClass '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing:PersistentLevel.Scale_Testing'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural03.Procedural03:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural03.Procedural03:PersistentLevel.Procedural03' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural03.Procedural03_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural03.Procedural03:PersistentLevel.Procedural03'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural04.Procedural04:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural04.Procedural04:PersistentLevel.Procedural04' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural04.Procedural04_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural04.Procedural04:PersistentLevel.Procedural04'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural05.Procedural05:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural05.Procedural05:PersistentLevel.Procedural05' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural05.Procedural05_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural05.Procedural05:PersistentLevel.Procedural05'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural06.Procedural06:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural06.Procedural06:PersistentLevel.Procedural06' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural06.Procedural06_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural06.Procedural06:PersistentLevel.Procedural06'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural07.Procedural07:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural07.Procedural07:PersistentLevel.Procedural07' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural07.Procedural07_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural07.Procedural07:PersistentLevel.Procedural07'
+[2019.12.09-19.17.12:889][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural08.Procedural08:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural08.Procedural08:PersistentLevel.Procedural08' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural08.Procedural08_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural08.Procedural08:PersistentLevel.Procedural08'
+[2019.12.09-19.17.12:890][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural09.Procedural09:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural09.Procedural09:PersistentLevel.Procedural09' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural09.Procedural09_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural09.Procedural09:PersistentLevel.Procedural09'
+[2019.12.09-19.17.12:890][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Content/Levels/Procedural10.Procedural10:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural10.Procedural10:PersistentLevel.Procedural10' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural10.Procedural10_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural10.Procedural10:PersistentLevel.Procedural10'
+[2019.12.09-19.17.12:932][600]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:932][600]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:932][600]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:933][600]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:947][601]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:948][601]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:948][601]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:948][601]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:949][601]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:950][601]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:950][601]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:951][601]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:954][601]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural12.umap' failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.12:954][601]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural12.umap' failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:142][609]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:142][609]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:142][609]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:143][609]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:145][609]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:145][609]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:154][610]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:154][610]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:155][610]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:156][610]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:156][610]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:157][610]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:160][610]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural12.umap' failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:160][610]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural12.umap' failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:461][623]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:462][623]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:462][623]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:462][623]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:480][624]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:481][624]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:481][624]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:481][624]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:482][624]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:483][624]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:483][624]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:483][624]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:485][624]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural12.umap' failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:485][624]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural12.umap' failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.13:769][637]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:769][637]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:770][637]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:770][637]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:794][638]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:795][638]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:795][638]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:795][638]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:796][638]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:796][638]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:797][638]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:797][638]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:812][639]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:813][639]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.13:841][640]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:841][640]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:841][640]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:842][640]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:843][640]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:843][640]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:856][641]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:856][641]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:857][641]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:857][641]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:858][641]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:858][641]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:860][641]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural11.umap' failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:860][641]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural11.umap' failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.13:884][642]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:884][642]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:885][642]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:885][642]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:898][643]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:899][643]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:899][643]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:899][643]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:900][643]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:901][643]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:901][643]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:902][643]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:915][644]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel04.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:916][644]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel04.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.13:944][645]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:944][645]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:944][645]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:945][645]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:960][646]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:960][646]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:961][646]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:961][646]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:962][646]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:962][646]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:962][646]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:963][646]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:981][647]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel03.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.13:982][647]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel03.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:014][648]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:015][648]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:015][648]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:015][648]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:030][649]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:030][649]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:031][649]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:032][649]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:033][649]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:033][649]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:033][649]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:034][649]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:052][650]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel04.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:053][650]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel04.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.14:124][653]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:125][653]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:126][653]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:126][653]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:153][654]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:154][654]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:155][654]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:155][654]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:156][654]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:157][654]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:157][654]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:158][654]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:175][655]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel03.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:175][655]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel03.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel03_BuiltData': Can't find file.
+[2019.12.09-19.17.14:261][658]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:262][658]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:262][658]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:262][658]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:264][658]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:264][658]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:277][659]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:277][659]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:278][659]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:279][659]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:279][659]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:279][659]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:281][659]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural11.umap' failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.14:281][659]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural11.umap' failed to load '/Game/Crossy_Content/Levels/Procedural11_BuiltData': Can't find file.
+[2019.12.09-19.17.24:667][148]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.12.09-19.17.24:667][148]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.12.09-19.17.24:668][148]LogGameMode: ProcessServerTravel: ?Restart
+[2019.12.09-19.17.24:686][149]LogEngine: Server switch level: /Game/Crossy_Content/Levels/mainlevel?Restart
+[2019.12.09-19.17.24:687][149]LogNet: Browse: /Game/Crossy_Content/Levels/mainlevel?Restart
+[2019.12.09-19.17.24:687][149]LogLoad: LoadMap: /Game/Crossy_Content/Levels/mainlevel
+[2019.12.09-19.17.24:687][149]LogWorld: BeginTearingDown for /Game/Crossy_Content/Levels/UEDPIE_0_mainlevel
+[2019.12.09-19.17.24:690][149]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:716][149]LogWorld: UWorld::CleanupWorld for Procedural12, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:716][149]LogWorld: UWorld::CleanupWorld for Procedural02, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:716][149]LogWorld: UWorld::CleanupWorld for Procedural02, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:727][149]LogWorld: UWorld::CleanupWorld for Procedural08, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:727][149]LogWorld: UWorld::CleanupWorld for Procedural12, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:727][149]LogWorld: UWorld::CleanupWorld for Procedural05, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:727][149]LogWorld: UWorld::CleanupWorld for Procedural10, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:727][149]LogWorld: UWorld::CleanupWorld for Procedural07, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:727][149]LogWorld: UWorld::CleanupWorld for Procedural03, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:728][149]LogWorld: UWorld::CleanupWorld for Procedural02, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:728][149]LogWorld: UWorld::CleanupWorld for Procedural12, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:728][149]LogWorld: UWorld::CleanupWorld for Procedural10, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:728][149]LogWorld: UWorld::CleanupWorld for Procedural09, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:728][149]LogWorld: UWorld::CleanupWorld for Procedural10, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:729][149]LogWorld: UWorld::CleanupWorld for Procedural10, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:729][149]LogWorld: UWorld::CleanupWorld for Procedural05, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:729][149]LogWorld: UWorld::CleanupWorld for Procedural01, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:729][149]LogWorld: UWorld::CleanupWorld for Procedural11, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:729][149]LogWorld: UWorld::CleanupWorld for PreLevel04, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:729][149]LogWorld: UWorld::CleanupWorld for PreLevel03, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:729][149]LogWorld: UWorld::CleanupWorld for PreLevel04, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:730][149]LogWorld: UWorld::CleanupWorld for Procedural02, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:730][149]LogWorld: UWorld::CleanupWorld for PreLevel03, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:730][149]LogWorld: UWorld::CleanupWorld for Procedural07, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:730][149]LogWorld: UWorld::CleanupWorld for Procedural11, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.24:805][149]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2019.12.09-19.17.24:807][149]LogPlayLevel: Creating play world package: /Game/Crossy_Content/Levels/UEDPIE_0_mainlevel
+[2019.12.09-19.17.24:821][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014142s)
+[2019.12.09-19.17.24:822][149]LogAIModule: Creating AISystem for world mainlevel
+[2019.12.09-19.17.24:823][149]LogPlayLevel: PIE: World Init took: (0.002043s)
+[2019.12.09-19.17.24:823][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crossy_Content/Levels/mainlevel.mainlevel to /Game/Crossy_Content/Levels/UEDPIE_0_mainlevel.mainlevel (0.016534s)
+[2019.12.09-19.17.24:823][149]LogLoad: Game class is 'TestGameMode_C'
+[2019.12.09-19.17.24:825][149]LogWorld: Bringing World /Game/Crossy_Content/Levels/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 60) at 2019.12.09-11.17.24
+[2019.12.09-19.17.24:826][149]LogWorld: Bringing up level for play took: 0.001216
+[2019.12.09-19.17.24:827][149]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.09-19.17.24:827][149]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.09-19.17.24:827][149]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.09-19.17.24:829][149]LogScript: Warning: Script Msg: Modulo by zero
+[2019.12.09-19.17.24:831][149]LogScript: Warning: Script Msg: Modulo by zero
+[2019.12.09-19.17.24:832][149]LogScript: Warning: Script Msg: Modulo by zero
+[2019.12.09-19.17.24:833][149]LogScript: Warning: Script Msg: Modulo by zero
+[2019.12.09-19.17.24:836][149]LogScript: Warning: Script Msg: Modulo by zero
+[2019.12.09-19.17.24:838][149]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.09-19.17.24:839][149]LogLoad: Took 0.152130 seconds to LoadMap(/Game/Crossy_Content/Levels/UEDPIE_0_mainlevel)
+[2019.12.09-19.17.25:075][154]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:075][154]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:075][154]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:076][154]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:078][154]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:078][154]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:101][155]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:102][155]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:103][155]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:104][155]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:104][155]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:104][155]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:120][156]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:120][156]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:157][156]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Crossy_Content/Levels/UEDPIE_0_5L took (less than) 24.16 ms
+[2019.12.09-19.17.25:183][157]LogStreaming: Display: Flushing async loaders.
+[2019.12.09-19.17.25:195][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:195][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:196][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:196][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:197][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:197][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:199][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:199][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:199][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:200][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:200][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:200][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:201][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural12.umap' failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:202][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural12.umap' failed to load '/Game/Crossy_Content/Levels/Procedural12_BuiltData': Can't find file.
+[2019.12.09-19.17.25:228][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:228][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:229][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:229][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:231][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:231][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:231][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:231][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:232][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:232][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:233][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:233][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:234][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:235][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:279][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:280][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:280][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:281][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:283][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:283][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:283][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:284][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:285][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:285][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:285][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:286][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:288][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:288][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:291][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:291][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:292][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:292][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:294][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:294][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:294][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:294][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:295][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:295][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:296][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:296][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:297][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:298][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:308][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:309][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:309][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:309][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:312][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:312][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:312][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:312][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:313][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:313][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:313][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:314][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:315][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel01.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:316][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel01.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:319][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:319][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:320][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:320][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:322][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:323][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:323][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:323][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:324][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:324][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:324][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:325][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:326][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel01.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:327][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel01.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:337][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:338][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:338][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:338][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:340][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:341][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:341][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:341][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:342][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:342][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:342][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:343][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:344][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel04.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:345][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/PreLevel04.umap' failed to load '/Game/Crossy_Content/Levels/PreLevel04_BuiltData': Can't find file.
+[2019.12.09-19.17.25:363][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:364][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:364][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:364][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:366][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:366][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:366][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:367][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:367][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:368][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:368][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:368][157]LogLinker: Warning: Failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:370][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:370][157]LogLinker: Warning: While loading '../../../../../../Users/Victoria/Downloads/Crossy_Roads_2-master/crossroads/Content/Crossy_Content/Levels/Procedural01.umap' failed to load '/Game/Crossy_Content/Levels/Procedural01_BuiltData': Can't find file.
+[2019.12.09-19.17.25:382][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/Crossy_Content/Levels/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural11.Procedural11:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural11.Procedural11:PersistentLevel.Procedural11' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural11.Procedural11_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural11.Procedural11:PersistentLevel.Procedural11'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural02.Procedural02:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural02.Procedural02:PersistentLevel.Procedural02' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural02.Procedural02_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural02.Procedural02:PersistentLevel.Procedural02'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural01.Procedural01:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural01.Procedural01:PersistentLevel.Procedural01' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural01.Procedural01_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural01.Procedural01:PersistentLevel.Procedural01'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural12.Procedural12:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural12.Procedural12:PersistentLevel.Procedural12' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural12.Procedural12_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural12.Procedural12:PersistentLevel.Procedural12'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01:PersistentLevel.PreLevel01' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01:PersistentLevel.PreLevel01'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02:PersistentLevel.PreLevel02' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02:PersistentLevel.PreLevel02'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03:PersistentLevel.PreLevel03' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03:PersistentLevel.PreLevel03'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04:PersistentLevel.PreLevel04' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04:PersistentLevel.PreLevel04'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing:PersistentLevel.Scale_Testing' with GeneratedClass '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing:PersistentLevel.Scale_Testing'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural03.Procedural03:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural03.Procedural03:PersistentLevel.Procedural03' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural03.Procedural03_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural03.Procedural03:PersistentLevel.Procedural03'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural04.Procedural04:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural04.Procedural04:PersistentLevel.Procedural04' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural04.Procedural04_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural04.Procedural04:PersistentLevel.Procedural04'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural05.Procedural05:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural05.Procedural05:PersistentLevel.Procedural05' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural05.Procedural05_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural05.Procedural05:PersistentLevel.Procedural05'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural06.Procedural06:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural06.Procedural06:PersistentLevel.Procedural06' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural06.Procedural06_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural06.Procedural06:PersistentLevel.Procedural06'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural07.Procedural07:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural07.Procedural07:PersistentLevel.Procedural07' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural07.Procedural07_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural07.Procedural07:PersistentLevel.Procedural07'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural08.Procedural08:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural08.Procedural08:PersistentLevel.Procedural08' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural08.Procedural08_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural08.Procedural08:PersistentLevel.Procedural08'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural09.Procedural09:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural09.Procedural09:PersistentLevel.Procedural09' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural09.Procedural09_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural09.Procedural09:PersistentLevel.Procedural09'
+[2019.12.09-19.17.25:383][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural10.Procedural10:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural10.Procedural10:PersistentLevel.Procedural10' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural10.Procedural10_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural10.Procedural10:PersistentLevel.Procedural10'
+[2019.12.09-19.17.25:384][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.17.25:384][157]LogWorld: BeginTearingDown for /Game/Crossy_Content/Levels/UEDPIE_0_mainlevel
+[2019.12.09-19.17.25:385][157]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.25:399][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-19.17.25:399][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel.mainlevel' with GeneratedClass '/Game/Crossy_Content/Levels/mainlevel.mainlevel_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel.mainlevel'
+[2019.12.09-19.17.25:399][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural11.Procedural11:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural11.Procedural11:PersistentLevel.Procedural11' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural11.Procedural11_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural11.Procedural11:PersistentLevel.Procedural11'
+[2019.12.09-19.17.25:399][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural02.Procedural02:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural02.Procedural02:PersistentLevel.Procedural02' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural02.Procedural02_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural02.Procedural02:PersistentLevel.Procedural02'
+[2019.12.09-19.17.25:399][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural01.Procedural01:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural01.Procedural01:PersistentLevel.Procedural01' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural01.Procedural01_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural01.Procedural01:PersistentLevel.Procedural01'
+[2019.12.09-19.17.25:399][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural12.Procedural12:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural12.Procedural12:PersistentLevel.Procedural12' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural12.Procedural12_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural12.Procedural12:PersistentLevel.Procedural12'
+[2019.12.09-19.17.25:399][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01:PersistentLevel.PreLevel01' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel01.PreLevel01:PersistentLevel.PreLevel01'
+[2019.12.09-19.17.25:400][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02:PersistentLevel.PreLevel02' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel02.PreLevel02:PersistentLevel.PreLevel02'
+[2019.12.09-19.17.25:400][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03:PersistentLevel.PreLevel03' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel03.PreLevel03:PersistentLevel.PreLevel03'
+[2019.12.09-19.17.25:400][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04:PersistentLevel.PreLevel04' with GeneratedClass '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/PreLevel04.PreLevel04:PersistentLevel.PreLevel04'
+[2019.12.09-19.17.25:400][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing:PersistentLevel.Scale_Testing' with GeneratedClass '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Other_Levels/Scale_Testing.Scale_Testing:PersistentLevel.Scale_Testing'
+[2019.12.09-19.17.25:400][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural03.Procedural03:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural03.Procedural03:PersistentLevel.Procedural03' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural03.Procedural03_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural03.Procedural03:PersistentLevel.Procedural03'
+[2019.12.09-19.17.25:400][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural04.Procedural04:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural04.Procedural04:PersistentLevel.Procedural04' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural04.Procedural04_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural04.Procedural04:PersistentLevel.Procedural04'
+[2019.12.09-19.17.25:400][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural05.Procedural05:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural05.Procedural05:PersistentLevel.Procedural05' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural05.Procedural05_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural05.Procedural05:PersistentLevel.Procedural05'
+[2019.12.09-19.17.25:400][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural06.Procedural06:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural06.Procedural06:PersistentLevel.Procedural06' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural06.Procedural06_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural06.Procedural06:PersistentLevel.Procedural06'
+[2019.12.09-19.17.25:400][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural07.Procedural07:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural07.Procedural07:PersistentLevel.Procedural07' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural07.Procedural07_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural07.Procedural07:PersistentLevel.Procedural07'
+[2019.12.09-19.17.25:400][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural08.Procedural08:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural08.Procedural08:PersistentLevel.Procedural08' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural08.Procedural08_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural08.Procedural08:PersistentLevel.Procedural08'
+[2019.12.09-19.17.25:400][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural09.Procedural09:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural09.Procedural09:PersistentLevel.Procedural09' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural09.Procedural09_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural09.Procedural09:PersistentLevel.Procedural09'
+[2019.12.09-19.17.25:400][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Content/Levels/Procedural10.Procedural10:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Content/Levels/Procedural10.Procedural10:PersistentLevel.Procedural10' with GeneratedClass '/Game/Crossy_Content/Levels/Procedural10.Procedural10_C' with ClassGeneratedBy '/Game/Crossy_Content/Levels/Procedural10.Procedural10:PersistentLevel.Procedural10'
+[2019.12.09-19.17.25:466][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.17.25:483][157]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2019.12.09-19.17.25:517][158]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.09-19.17.25:582][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.12.09-19.17.29:882][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-19.17.37:819][638]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Crossy_Content/Levels/mainlevel.mainlevel:PersistentLevel.mainlevel
+[2019.12.09-19.18.26:361][172]LogSlate: Window 'mainlevel' being destroyed
+[2019.12.09-19.18.26:398][172]LogSlate: Window 'mainlevel' being destroyed
+[2019.12.09-19.18.26:457][172]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-22.37.51:305][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.12.09-22.37.58:069][480]LogHttp: Warning: 000001B3DD900680: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B62AFF24F-404F-4194-C397-0484FF9BA936%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=8a715dc34de7effaa997d68a4aac988a%7C6b860b9429a042b7b31d932a79e41b01%7Cb6db129c-13aa-412c-b130-94f018ac40a8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.09-22.37.58:082][480]LogHttp: Warning: 000001B3DD900680: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.12.09-22.37.58:082][480]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b38a543f70 [can pipeline])
+[2019.12.09-22.37.58:082][480]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 1 (Re-using existing connection! (#54) with host datarouter.ol.epicgames.com)
+[2019.12.09-22.37.58:082][480]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.214.154.203) port 443 (#54))
+[2019.12.09-22.37.58:085][480]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.12.09-22.37.58:086][480]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.12.09-22.37.58:086][480]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.12.09-22.37.58:086][480]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.12.09-22.37.58:087][480]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 7 (Closing connection 54)
+[2019.12.09-22.37.58:094][480]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B62AFF24F-404F-4194-C397-0484FF9BA936%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=8a715dc34de7effaa997d68a4aac988a%7C6b860b9429a042b7b31d932a79e41b01%7Cb6db129c-13aa-412c-b130-94f018ac40a8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.09-23.56.53:951][136]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.12.09-23.57.14:131][196]LogHttp: Warning: 000001B3DD900680: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B62AFF24F-404F-4194-C397-0484FF9BA936%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=8a715dc34de7effaa997d68a4aac988a%7C6b860b9429a042b7b31d932a79e41b01%7Cb6db129c-13aa-412c-b130-94f018ac40a8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.09-23.57.14:132][196]LogHttp: Warning: 000001B3DD900680: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.12.09-23.57.14:132][196]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b38a543f70 [can pipeline])
+[2019.12.09-23.57.14:132][196]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 1 (Re-using existing connection! (#83) with host datarouter.ol.epicgames.com)
+[2019.12.09-23.57.14:132][196]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.86.156.38) port 443 (#83))
+[2019.12.09-23.57.14:132][196]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.12.09-23.57.14:132][196]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.12.09-23.57.14:132][196]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.12.09-23.57.14:132][196]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.12.09-23.57.14:132][196]LogHttp: Warning: 000001B3DD900680: libcurl info message cache 7 (Closing connection 83)
+[2019.12.09-23.57.14:134][196]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B62AFF24F-404F-4194-C397-0484FF9BA936%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=8a715dc34de7effaa997d68a4aac988a%7C6b860b9429a042b7b31d932a79e41b01%7Cb6db129c-13aa-412c-b130-94f018ac40a8&AppEnvironment=datacollector-binary&UploadType=eteventstream
